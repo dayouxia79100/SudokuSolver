@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SudokuSolver/app/build/pre-dexed/debug/support-v4-19.0.0-368054dfda89bdffa0588ae338ee8c1cb3416107.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SudokuSolver/app/build/pre-dexed/debug/classes-7d2f133a853c140fd2f4d6278f5904cc8a264faa.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
