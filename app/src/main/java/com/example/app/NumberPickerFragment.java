@@ -42,7 +42,7 @@ public class NumberPickerFragment extends DialogFragment {
     @Override
     public Dialog onCreateDialog(Bundle savedInstanceState) {
         View v = getActivity().getLayoutInflater()
-                .inflate(R.layout.number_picker_fragment2,null);
+                .inflate(R.layout.number_picker_fragment,null);
         NumberPicker numberPicker = (NumberPicker) v.findViewById(R.id.number_picker);
         numberPicker.setMaxValue(9);
         numberPicker.setMinValue(0);

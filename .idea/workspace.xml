@@ -64,10 +64,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NumberPickerFragment.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="NumberPickerFragment.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app/NumberPickerFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="36" selection-start="1366" selection-end="1366" vertical-scroll-proportion="0.46841294" vertical-offset="266" max-vertical-offset="915">
+            <state line="43" column="34" selection-start="1161" selection-end="1161" vertical-scroll-proportion="0.0" vertical-offset="236" max-vertical-offset="915">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SudokuSolverFragment.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app/SudokuSolverFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="13" selection-start="494" selection-end="494" vertical-scroll-proportion="0.16178736" vertical-offset="0" max-vertical-offset="2640">
               <folding />
             </state>
           </provider>
@@ -850,7 +859,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app/NumberPickerFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="36" selection-start="1366" selection-end="1366" vertical-scroll-proportion="0.46841294" vertical-offset="266" max-vertical-offset="915">
+        <state line="43" column="34" selection-start="1161" selection-end="1161" vertical-scroll-proportion="0.0" vertical-offset="236" max-vertical-offset="915">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/app/SudokuSolverFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="13" selection-start="494" selection-end="494" vertical-scroll-proportion="0.16178736" vertical-offset="0" max-vertical-offset="2640">
           <folding />
         </state>
       </provider>
